@@ -16,6 +16,7 @@ This repository showcases various projects that dive into complex mathematical t
 | Directory         | Description                                               |
 |-------------------|-----------------------------------------------------------|
 | `/algorithms`     | Advanced algorithms and implementations.                 |
+| `/paradoxes `     | Advanced paradoxes virtualizations.                      |
 | `/theorems`       | Code for various mathematical theorems.                  |
 | `/data_analysis`  | Scripts for analyzing mathematical datasets.             |
 | `/ml`             | Machine learning projects based on mathematical models.  |
@@ -27,4 +28,4 @@ To get started with this repository:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/advanced-python-mathematics.git
+git clone https://github.com/akeanti/Maths.git
